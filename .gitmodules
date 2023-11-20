@@ -1,0 +1,9 @@
+[submodule "lib_dev_check"]
+	path = lib_dev_check
+	url = https://github.com/charles-park/lib_dev_check
+[submodule "lib_fbui"]
+	path = lib_fbui
+	url = https://github.com/charles-park/lib_fbui
+[submodule "lib_nlp"]
+	path = lib_nlp
+	url = https://github.com/charles-park/lib_nlp
