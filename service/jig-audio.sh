@@ -11,6 +11,6 @@ amixer -c 1 sset 'Playback Path' 'HP'
 
 while true
 do
-    aplay -Dhw:1,0 /root/m1s.self/service/piano.wav
+    aplay -Dhw:1,0 /root/JIG.m1s.self/service/piano.wav
     sleep 1
 done
